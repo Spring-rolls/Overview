@@ -62,11 +62,11 @@ By assigning tasks based on the competencies for each team member.
 
 ### In which professional competencies do you each want to develop greater strength?
 
-* Ala Abu Rish / Full-stack (JS, CSS)
-* Emam Shararah / Front-end (CSS, React)
-* Maiada Ibrahim / Full-stack (JS, CSS)
-* Mansour Al Batran / Back-end (JS)
-* Tasneem Al-Absi / Front-end (CSS, React)
+* Ali Alhjouj // frontend
+* Ahmad Alasa'd  // frontend
+* Emam Shararah // frontend-backend
+* Ghaida Gharaibeh // backend
+* Thaer Jomhawi // backend
 
 
 &nbsp;
