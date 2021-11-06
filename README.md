@@ -24,7 +24,7 @@ OnBoard
 
 ### - Description
 
-A web application that retrieves data about 3d models and render them for the user, the user can save those models in his own profile and organize them in categories.
+A web application that manages board games events.
 
 &nbsp;
 
